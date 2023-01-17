@@ -13,7 +13,7 @@ body {
     #5290f9 50%,
     #5290f9 100%
   );
-  font-family: 'Muli', sans-serif;
+  font-family: serif;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -22,10 +22,10 @@ body {
 }
 
 nav {
-  background-color: #fff;
+  background-color: white;
   padding: 20px;
   width: 80px;
-  display: flex;
+  display:flex;
   align-items: center;
   justify-content: center;
   border-radius: 3px;
